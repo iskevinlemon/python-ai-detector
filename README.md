@@ -2,7 +2,7 @@
 Detect potentially written texts using Python (no external libraries are used).
 
 ## How it works
-1. The program works by comparing the target <code>text.txt</code> 
+The program works by comparing the target <code>text.txt</code> 
 file against a list of 100 keywords commonly used by AI (E.g. ChatGPT), the initial publication of the list can be found [here](https://twitter.com/skalskip92/status/1773027055673712916).
 
 ## Current potential flaw observed
