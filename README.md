@@ -1,5 +1,5 @@
 # AI Detector with Python
-Detect potentially written texts using Python (no external libraries are used).
+Detect potentially AI written texts using Python.
 
 ## How it works
 The program works by comparing the target <code>text.txt</code> 
